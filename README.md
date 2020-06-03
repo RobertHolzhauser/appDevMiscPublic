@@ -32,9 +32,9 @@ misc things for work
      Table
      
      | Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| --- | --- |
+| R1 C1 | R1 C2 |
+| R2 C1 | R2 C2 |
 
 
 Fenced code block
