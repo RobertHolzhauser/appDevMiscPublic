@@ -46,19 +46,6 @@ Fenced code block
 }
 ```
 
-Footnotes
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
-Heading ID
-
-	### My Great Heading {#custom-id}
-  
-  definition
-  
- 	term
-: definition
 
 Strikethrough
 	~~The world is flat.~~
