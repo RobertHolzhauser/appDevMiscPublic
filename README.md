@@ -55,7 +55,7 @@ Task List
 - [ ] Update the website
 - [ ] Contact the media
 
-Reference:  [https://www.markdownguide.org/cheat-sheet/] (https://www.markdownguide.org/cheat-sheet/)
+Reference:  [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
 
      
      
